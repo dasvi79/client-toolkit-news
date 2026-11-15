@@ -1,9 +1,9 @@
 {
   "announcements": [
     {
-      "id": "2026-11-16-1",
-      "title": "New update",
-      "message": "I added a new feature!",
+      "id": "test-20261116-1",
+      "title": "Test announcement",
+      "message": "If you can read this, mod announcements are working!",
       "date": "2026-11-16",
       "type": "update"
     }
